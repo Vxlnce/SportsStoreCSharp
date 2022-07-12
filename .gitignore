@@ -1,0 +1,10 @@
+src/SportsStore/obj/project.assets.json
+src/SportsStore/obj/project.nuget.cache
+src/SportsStore/obj/SportsStore.csproj.nuget.dgspec.json
+src/SportsStore/obj/SportsStore.csproj.nuget.g.props
+src/SportsStore/obj/SportsStore.csproj.nuget.g.targets
+src/SportsStore.Tests/obj/project.assets.json
+src/SportsStore.Tests/obj/project.nuget.cache
+src/SportsStore.Tests/obj/SportsStore.Tests.csproj.nuget.dgspec.json
+src/SportsStore.Tests/obj/SportsStore.Tests.csproj.nuget.g.props
+src/SportsStore.Tests/obj/SportsStore.Tests.csproj.nuget.g.targets
